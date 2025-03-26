@@ -33,16 +33,4 @@
                 "BucketName": "my-cloudformation-s3-bucket2"
             }
         }
-    },
-
-    "Outputs": {
-        "VPCId": {
-            "Description": "VPC ID",
-            "Value": { "Ref": "MyVPC" }
-        },
-        "S3BucketName": {
-            "Description": "S3 Bucket Name",
-            "Value": { "Ref": "MyS3Bucket" }
-        }
     }
-}
