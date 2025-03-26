@@ -10,7 +10,7 @@
                 "EnableDnsSupport": true,
                 "EnableDnsHostnames": true,
                 "Tags": [
-                    { "Key": "Name", "Value": "MyCustomVPC" }
+                    { "Key": "Name", "Value": "MyCutfygygvhstomVPC" }
                 ]
             }
         },
